@@ -1,0 +1,28 @@
+{
+  "name": "antd-theme-changer",
+  "version": "1.1.0",
+  "description": "用于动态修改less变量 实现动态切换antd主题颜色，其他插件支持度待开发。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "antd-theme-generator": "^1.2.4"
+  },
+  "author": "spidd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getSpidd/antd-theme-changer"
+  },
+  "keywords": [
+    "antd",
+    "ant-design",
+    "less",
+    "lessjs",
+    "css",
+    "theme",
+    "dynamic-theme",
+    "webpack"
+  ],
+  "license": "ISC"
+}
